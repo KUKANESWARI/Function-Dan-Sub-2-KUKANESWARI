@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Function Dan Sub 2 KUKANESWARI", "Function Dan Sub 2 KUKANESWARI\Function Dan Sub 2 KUKANESWARI.vbproj", "{05060E53-F43E-42D7-9F68-FBF791A52159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05060E53-F43E-42D7-9F68-FBF791A52159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05060E53-F43E-42D7-9F68-FBF791A52159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05060E53-F43E-42D7-9F68-FBF791A52159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05060E53-F43E-42D7-9F68-FBF791A52159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2B554D0-2D93-48AB-8358-38B0409A75CC}
+	EndGlobalSection
+EndGlobal
